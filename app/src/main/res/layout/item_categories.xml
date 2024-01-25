@@ -5,7 +5,7 @@
     <data>
         <variable
             name="noOfTaskOfCategory"
-            type="com.example.todolist.data.model.NoOfTaskForEachCategory" />
+            type="in.eduforyou.todolist.data.model.NoOfTaskForEachCategory" />
     </data>
 
 <com.google.android.material.card.MaterialCardView

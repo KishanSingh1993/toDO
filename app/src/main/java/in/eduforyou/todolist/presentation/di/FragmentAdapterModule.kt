@@ -5,6 +5,7 @@ import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.components.FragmentComponent
 import dagger.hilt.android.scopes.FragmentScoped
+import `in`.eduforyou.todolist.presentation.adapter.TasksAdapter
 import javax.inject.Named
 
 @Module

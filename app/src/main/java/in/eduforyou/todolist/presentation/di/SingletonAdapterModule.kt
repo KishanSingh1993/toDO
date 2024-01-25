@@ -5,6 +5,8 @@ import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
+import `in`.eduforyou.todolist.presentation.adapter.CategoryAdapter
+import `in`.eduforyou.todolist.presentation.adapter.TasksAdapter
 import javax.inject.Named
 import javax.inject.Singleton
 

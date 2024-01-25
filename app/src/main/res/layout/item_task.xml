@@ -6,7 +6,7 @@
     <data>
         <variable
             name="taskCategoryInfo"
-            type="com.example.todolist.data.model.TaskCategoryInfo" />
+            type="in.eduforyou.todolist.data.model.TaskCategoryInfo" />
     </data>
 
 <com.google.android.material.card.MaterialCardView

@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/settings_fragment"
-        android:name="com.example.todolist.presentation.fragments.SettingsFragment"
+        android:name="in.eduforyou.todolist.presentation.fragments.SettingsFragment"
         android:label=""
         tools:layout="@layout/fragment_settings" />
     <fragment
         android:id="@+id/completed_tasks_fragment"
-        android:name="com.example.todolist.presentation.fragments.CompletedTasksFragment"
+        android:name="in.eduforyou.todolist.presentation.fragments.CompletedTasksFragment"
         android:label=""
         tools:layout="@layout/fragment_completed_tasks" >
         <action
@@ -22,7 +22,7 @@
     </fragment>
     <fragment
         android:id="@+id/task_category_fragment"
-        android:name="com.example.todolist.presentation.fragments.TaskCategoryFragment"
+        android:name="in.eduforyou.todolist.presentation.fragments.TaskCategoryFragment"
         android:label=""
         tools:layout="@layout/fragment_task_category" >
         <argument
@@ -35,7 +35,7 @@
     </fragment>
     <fragment
         android:id="@+id/new_task_fragment"
-        android:name="com.example.todolist.presentation.fragments.NewTaskFragment"
+        android:name="in.eduforyou.todolist.presentation.fragments.NewTaskFragment"
         android:label=""
         tools:layout="@layout/fragment_new_task" >
         <argument
@@ -45,7 +45,7 @@
     </fragment>
     <fragment
         android:id="@+id/base_fragment"
-        android:name="com.example.todolist.presentation.fragments.BaseFragment"
+        android:name="in.eduforyou.todolist.presentation.fragments.BaseFragment"
         android:label=""
         tools:layout="@layout/fragment_base" >
         <action
