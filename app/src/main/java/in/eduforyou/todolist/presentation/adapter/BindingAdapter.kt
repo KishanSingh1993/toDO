@@ -1,4 +1,4 @@
-package com.example.todolist.presentation.adapter
+package `in`.eduforyou.todolist.presentation.adapter
 
 import android.annotation.SuppressLint
 import android.content.res.ColorStateList
@@ -6,10 +6,10 @@ import android.graphics.Color
 import android.view.View
 import androidx.core.widget.CompoundButtonCompat
 import androidx.databinding.BindingAdapter
-import com.example.todolist.data.util.DateToString
 import com.google.android.material.checkbox.MaterialCheckBox
 import com.google.android.material.chip.Chip
 import com.google.android.material.textview.MaterialTextView
+import `in`.eduforyou.todolist.data.util.DateToString
 import java.util.*
 
 @SuppressLint("SetTextI18n")
